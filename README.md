@@ -1,6 +1,7 @@
 # testrun
 
 A new Flutter project.
+Just hands-on with basics.
 
 ## Getting Started
 
